@@ -1,0 +1,5 @@
+Installing Git on Local Machine:
+
+Download Git from https://git-scm.com/.
+Follow installation instructions based on your operating system.
+Open a terminal and run git --version to verify installation.
